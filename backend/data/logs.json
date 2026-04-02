@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "0ea7f33d-5a75-4156-ae02-78e20fe43791",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-03-31T22:09:19.736Z"
+  },
+  {
+    "id": "ea51fd8f-5105-4650-aaee-1cfc3c630ac0",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "server connected",
+    "timestamp": "2026-03-31T22:09:19.757Z"
+  },
+  {
+    "id": "8f30a243-24e2-4b5b-bbfb-23bffe7eb5f8",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-03-31T22:09:37.254Z"
+  },
+  {
+    "id": "1c5ebe1a-ed91-49c9-b476-e6eafba16126",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-03-31T22:09:37.276Z"
+  },
+  {
+    "id": "85c07a6e-a612-48d9-a0f5-155e70729d8d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-03-31T22:09:37.294Z"
+  },
+  {
+    "id": "378e7d54-0d05-4015-8fd5-130a08b05dc2",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-03-31T22:09:42.539Z"
+  },
+  {
+    "id": "91b5678b-4d66-4f9e-8812-912093c959e4",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-03-31T22:09:42.561Z"
+  },
+  {
+    "id": "0a459661-3c02-4029-8212-298d51732415",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-03-31T22:09:42.585Z"
+  },
+  {
+    "id": "e61c2dc7-607e-41c2-b0d5-7537d5f3d8b7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-03-31T22:09:45.186Z"
+  },
+  {
+    "id": "9ed69d28-48ae-4da9-8048-623fa5bac8ce",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-03-31T22:09:45.210Z"
+  },
+  {
+    "id": "2ad45e68-733f-4137-8808-7d191a8fb287",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-03-31T22:09:45.229Z"
+  },
+  {
+    "id": "d143a724-4a3f-428c-abbe-81b8b9cb9022",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-03-31T22:09:47.485Z"
+  },
+  {
+    "id": "e0eb9794-3004-4309-8405-d093ea988c14",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-03-31T22:09:47.503Z"
+  },
+  {
+    "id": "b475b27d-1bac-4c74-8718-719327f8d1c6",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-03-31T22:09:47.507Z"
+  },
+  {
+    "id": "d625bbef-ff5e-4e7e-a89c-99a7a9c80422",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-03-31T22:09:52.552Z"
+  },
+  {
+    "id": "876c621e-0634-45b4-8373-567231625fc2",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-03-31T22:09:52.574Z"
+  },
+  {
+    "id": "9cdeb878-9a27-456e-91d8-f375ecabf186",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-03-31T22:09:52.597Z"
+  },
+  {
+    "id": "f2e541af-6556-4c17-a1fb-3207b910895e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-03-31T22:09:55.386Z"
+  },
+  {
+    "id": "13a42695-8c2d-41ac-8ac2-526d595a727f",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-03-31T22:09:55.404Z"
+  },
+  {
+    "id": "8c95fd0c-7a65-4462-9cda-70a5bc4af1b5",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-03-31T22:09:55.410Z"
+  },
+  {
+    "id": "08f86ab7-7695-47e6-bd55-4c117ca77754",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-03-31T22:09:59.352Z"
+  },
+  {
+    "id": "2fa5f203-4692-4784-8d9b-c17eb6f3adf5",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-03-31T22:09:59.370Z"
+  },
+  {
+    "id": "c991f0c8-948c-48c2-9c95-c9c3edd66764",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-03-31T22:09:59.374Z"
+  },
+  {
+    "id": "81afa6ad-be20-426f-af4a-ccc402307ec6",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-03-31T22:10:01.386Z"
+  },
+  {
+    "id": "acb74c87-6b1f-48c0-a4ad-0b93ed608d6b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-03-31T22:10:01.411Z"
+  },
+  {
+    "id": "62b59b7a-9a6a-4e7c-aeb7-2fbdb5d969d7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-03-31T22:10:01.429Z"
+  },
+  {
+    "id": "89c8b699-b0f9-4df9-af81-93074c44fbf5",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-01T04:02:27.283Z"
+  },
+  {
+    "id": "39403d46-1dd7-4a60-adca-87e747f6b2af",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-01T04:02:27.591Z"
+  },
+  {
+    "id": "f6a03b30-ce99-469e-92af-1f7266e76f83",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "server connected",
+    "timestamp": "2026-04-01T04:02:27.596Z"
+  },
+  {
+    "id": "293b46a2-ad95-4976-b8c4-0729c95269ec",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-01T04:02:37.728Z"
+  },
+  {
+    "id": "e258d5a5-b16c-4a05-9bad-a46b2af6fffa",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-01T04:02:38.036Z"
+  },
+  {
+    "id": "998a2a36-9d92-439d-8924-12acdf133ebc",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "server connected",
+    "timestamp": "2026-04-01T04:02:38.041Z"
+  },
+  {
+    "id": "0b34f8b5-e7e0-4399-83a7-ffdffb4d7f18",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-01T04:03:07.409Z"
+  },
+  {
+    "id": "7ddeb9e3-2421-4382-abf7-0319a700e22d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-01T04:03:07.630Z"
+  },
+  {
+    "id": "a139a56e-5ebb-423f-91b6-168ad091aaa2",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "server connected",
+    "timestamp": "2026-04-01T04:03:07.636Z"
+  },
+  {
+    "id": "00143b51-a45d-4c91-be27-ff39449f8b27",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-01T04:03:18.886Z"
+  },
+  {
+    "id": "b62f1e8d-157f-4381-aff1-26fdb6343074",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-04-01T04:03:18.907Z"
+  },
+  {
+    "id": "47276729-e928-49aa-903c-acd0b793497c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-01T04:03:18.934Z"
+  },
+  {
+    "id": "2a547099-3416-4aac-90d6-c22a9dc80036",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-01T04:03:21.068Z"
+  },
+  {
+    "id": "70497909-5477-44ef-ba98-f5dfbba2af78",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-04-01T04:03:21.092Z"
+  },
+  {
+    "id": "ab135d77-4c53-44f8-8a98-17cc185e13c7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-01T04:03:21.111Z"
+  },
+  {
+    "id": "bfe88a33-0540-4d59-ab3d-5692d94c52fe",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-01T04:03:23.552Z"
+  },
+  {
+    "id": "e28ff2b6-fede-4512-aa93-dae00a2c7c72",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-04-01T04:03:23.577Z"
+  },
+  {
+    "id": "f3a6ae98-ccab-4ff5-b60e-8e44e3dbe3fc",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-01T04:03:23.594Z"
+  },
+  {
+    "id": "61098ad1-8b52-4417-ab29-934a40a6a9c9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-01T04:03:25.098Z"
+  },
+  {
+    "id": "22a17a62-5068-4a4f-854f-93ef13c3c075",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=off source=server",
+    "timestamp": "2026-04-01T04:03:25.122Z"
+  },
+  {
+    "id": "9bd8780f-fb10-4423-b49d-712fd2376c08",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-01T04:03:25.127Z"
+  },
+  {
+    "id": "fffb8449-1882-4be8-b176-7a208ec526d0",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-01T04:03:34.733Z"
+  },
+  {
+    "id": "3b7fb72d-5d55-4827-9583-c12b58c8b2d0",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay1=on source=server",
+    "timestamp": "2026-04-01T04:03:34.753Z"
+  },
+  {
+    "id": "c74b797b-e4cd-4f64-b280-e4bee10f5546",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-01T04:03:34.757Z"
+  },
+  {
+    "id": "ee25e217-c95c-4853-83ac-69466d3af5e1",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-01T04:14:13.716Z"
+  },
+  {
+    "id": "3766b2e1-c7ec-4418-b2e4-ba5c48750635",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-01T04:14:14.758Z"
+  },
+  {
+    "id": "3d328436-14ee-4a93-abb7-21abdbaf4f2c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-01T04:14:22.590Z"
+  },
+  {
+    "id": "683e92e6-af63-48be-810d-16699448cd80",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-01T04:14:32.921Z"
+  },
+  {
+    "id": "5fca7481-d4a0-421e-8a12-e52fc7acd1fb",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-01T04:14:34.799Z"
+  },
+  {
+    "id": "45d26a2b-b6bf-45a0-a2de-f831c6742b31",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-01T04:14:35.282Z"
+  },
+  {
+    "id": "2a09bb9a-fff4-4579-aee2-93f9d40879b2",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T05:46:31.686Z"
+  },
+  {
+    "id": "043c59ff-7248-4737-bf13-e390426daaf6",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T05:50:15.336Z"
+  },
+  {
+    "id": "aae2a318-6447-4a22-adf2-96e65ec1c84e",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T05:50:15.524Z"
+  },
+  {
+    "id": "06da32a7-7099-4073-b3ee-3c56befcb763",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T05:58:03.091Z"
+  },
+  {
+    "id": "5de5d6bf-460f-4a76-bd34-dcab676d6d1c",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T05:58:03.292Z"
+  },
+  {
+    "id": "42fd65f0-593f-4e3b-8f12-01af98e2451e",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T05:58:14.148Z"
+  },
+  {
+    "id": "92f9b33b-7d82-4332-933a-4b8a3bbe746a",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T05:58:14.353Z"
+  },
+  {
+    "id": "6f1ab439-dc7f-438f-803d-957a559fb43b",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:00:28.292Z"
+  },
+  {
+    "id": "72e70422-55e7-4dda-b7af-1fc886cad2ab",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T06:00:28.495Z"
+  },
+  {
+    "id": "ecb518fb-1179-4c27-9b02-bf9fc340c1b6",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:00:40.785Z"
+  },
+  {
+    "id": "ac771743-8cec-41f9-868e-2e13834b8759",
+    "deviceId": "relay-01",
+    "level": "info",
+    "message": "device connected from ::ffff:192.168.31.50",
+    "timestamp": "2026-04-02T06:00:40.988Z"
+  },
+  {
+    "id": "d305c9ce-0b3e-4519-9727-acdd0287f084",
+    "deviceId": "relay-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:12:10.556Z"
+  },
+  {
+    "id": "b20ed8c9-b70a-4a7f-afaa-f6225c30b8a7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:12:10.760Z"
+  },
+  {
+    "id": "104a9534-6100-43c1-a692-0f7872b18938",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:12:24.892Z"
+  },
+  {
+    "id": "4a7c42d3-6f25-484c-9129-182c31d3ab9e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:12:25.095Z"
+  },
+  {
+    "id": "cbf3c348-9d86-4035-a36c-b0780b2451b9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:12:37.228Z"
+  },
+  {
+    "id": "c6f7c579-25d3-4807-87e4-81aed832e38f",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:12:41.488Z"
+  },
+  {
+    "id": "a65dbfaa-a2ca-4574-9207-67e3cc03d791",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:12:46.323Z"
+  },
+  {
+    "id": "41a78560-fede-405c-92b4-067fce9e1d9d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:12:48.436Z"
+  },
+  {
+    "id": "44a27190-7f91-4f6e-93c0-1cc8d8461c64",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:12:50.636Z"
+  },
+  {
+    "id": "318be134-531b-49b5-bbc1-abbc9bf80c5f",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:12:53.438Z"
+  },
+  {
+    "id": "a4d6e016-a705-44b6-b98a-92bc6b63589c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:12:55.603Z"
+  },
+  {
+    "id": "f2fdb665-2f24-478d-afcc-871ca71f6ca3",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:12:57.056Z"
+  },
+  {
+    "id": "2625546c-5d62-4e1d-a251-dcdeeaccf788",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:17:30.154Z"
+  },
+  {
+    "id": "44ec0895-75ab-4e34-abd5-ee7c0dec234d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:17:32.194Z"
+  },
+  {
+    "id": "cf10ce2b-5d7b-4371-838e-917d2cbd7a38",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:17:34.096Z"
+  },
+  {
+    "id": "9372a8be-69ed-4336-a675-5c541b2c9db9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:17:35.258Z"
+  },
+  {
+    "id": "3eb0c292-65c4-40c1-8f29-ec2b912dde3d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:19:29.616Z"
+  },
+  {
+    "id": "1b032b49-949a-4b53-b56e-6bda2634fb9b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:20:10.093Z"
+  },
+  {
+    "id": "d885372d-dd72-4858-a9cb-b8ecd8e17d6d",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:37:42.777Z"
+  },
+  {
+    "id": "d45b2ea2-fed6-422c-85bb-132df26b5693",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:37:43.187Z"
+  },
+  {
+    "id": "bda7c9ad-432a-49f5-888d-e29480637f4a",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:37:59.064Z"
+  },
+  {
+    "id": "3fdc3ff5-6c0c-4045-9531-481cf4c3b4c7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:38:01.193Z"
+  },
+  {
+    "id": "98216a43-c981-47c0-b166-6217873a070c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:38:03.723Z"
+  },
+  {
+    "id": "c9a88a90-ef26-4a15-9793-f787a9427b90",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:38:05.671Z"
+  },
+  {
+    "id": "73132612-436f-4dd2-8861-97dc78a0ae37",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:40:32.529Z"
+  },
+  {
+    "id": "a337b03a-5578-4f3e-a731-26a17aa754dd",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:46:52.697Z"
+  },
+  {
+    "id": "ec1a875e-0942-4238-b6b7-a122cbde323c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:46:52.976Z"
+  },
+  {
+    "id": "d18c49cf-08c8-4c65-8035-2a684d6c1ae4",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:47:04.860Z"
+  },
+  {
+    "id": "e12ead2a-7f4c-404c-9c81-fde47c2aa35b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:47:05.160Z"
+  },
+  {
+    "id": "a7b8c99c-aaa0-4d1d-ac1d-92a023fd8251",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:47:10.717Z"
+  },
+  {
+    "id": "11c1ab20-3455-470e-a0d8-6f15482d7ccd",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:47:10.735Z"
+  },
+  {
+    "id": "8d24eeb2-8ca0-41a4-85ce-3cdd167c1606",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:47:14.764Z"
+  },
+  {
+    "id": "20be1d7f-7fb8-41db-9853-a7a978d8c512",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T06:47:14.782Z"
+  },
+  {
+    "id": "89898f68-06c4-4656-9cc3-10af72a514ba",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:47:23.959Z"
+  },
+  {
+    "id": "0966cd11-4fa4-4d1f-a7ea-a55dac243f5b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:47:23.977Z"
+  },
+  {
+    "id": "065c304a-39fa-4f0d-8a08-4dcda05d3dd9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:47:25.751Z"
+  },
+  {
+    "id": "587876e0-5be4-4594-bfc4-53120abd050d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T06:47:25.769Z"
+  },
+  {
+    "id": "66360a1c-cdd2-485a-bcfd-78771753efd3",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T06:58:01.289Z"
+  },
+  {
+    "id": "6bb3b2b4-ccdb-430d-89b4-8b7aa27b5890",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T06:58:07.497Z"
+  },
+  {
+    "id": "38b62f69-4bc1-482a-93b7-4d64d406636f",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:58:21.921Z"
+  },
+  {
+    "id": "e6c84d25-6152-4330-be02-7858d81409cc",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:58:21.938Z"
+  },
+  {
+    "id": "a71cf1cf-ed4b-4b8a-ba07-2817de1e1e82",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:58:27.396Z"
+  },
+  {
+    "id": "7907129f-d064-4591-a16d-2b8a5d535b41",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T06:58:27.415Z"
+  },
+  {
+    "id": "e9fd1a2f-8400-4915-b536-548d41540f76",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:58:31.743Z"
+  },
+  {
+    "id": "8dbdcd0f-73ab-4d4b-b7f0-8d9198865fcb",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:58:31.762Z"
+  },
+  {
+    "id": "ec97aa4c-fd5b-459b-b2b3-ba2a4c786afc",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:58:40.991Z"
+  },
+  {
+    "id": "6c07f399-1251-4de9-a086-da4c17df6414",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:58:41.012Z"
+  },
+  {
+    "id": "c7d84780-a3e3-405f-8207-098254fb52f4",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T06:59:23.371Z"
+  },
+  {
+    "id": "b1313655-6b94-466f-9514-c9a85a72a11e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T06:59:23.395Z"
+  },
+  {
+    "id": "97e1a18f-2584-4453-843d-2e867b58c71b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T06:59:37.623Z"
+  },
+  {
+    "id": "e98332a2-c449-4cfb-ae13-31443ecd4e48",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T06:59:37.639Z"
+  },
+  {
+    "id": "d29460c1-ae47-4b3e-b4be-2e5aaba06c4f",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:01:09.232Z"
+  },
+  {
+    "id": "64a37fd8-47c6-443c-83a3-acf9db4a905b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:01:09.257Z"
+  },
+  {
+    "id": "7dcb3696-c5e7-4bd9-a6ed-43608993de3b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:02:52.617Z"
+  },
+  {
+    "id": "1a08e637-8e36-48ee-a5b4-1510e4d6d8bf",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:02:55.994Z"
+  },
+  {
+    "id": "16044583-9e5f-4d0a-8db5-71e1d2152559",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:02:57.845Z"
+  },
+  {
+    "id": "659a88dc-2cd8-4a33-836f-8d7124cde11f",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:03:09.890Z"
+  },
+  {
+    "id": "9482b293-1bf0-44da-a2ce-1f5874c0745e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:06:10.219Z"
+  },
+  {
+    "id": "300b27e1-db48-428a-be42-2d7814a4bda0",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:07:33.469Z"
+  },
+  {
+    "id": "5b14fc2c-0bde-48d2-a7c1-c007a51db10c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:10:36.656Z"
+  },
+  {
+    "id": "200128eb-ac22-4c0f-b026-d798971d0bad",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:11:04.050Z"
+  },
+  {
+    "id": "aa50255b-3722-4bc8-956f-f9984b3ea844",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:11:21.738Z"
+  },
+  {
+    "id": "c43e568b-44e6-467d-99d4-76c04a273529",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:11:23.439Z"
+  },
+  {
+    "id": "ea8bc2b2-1060-4fe5-adfc-95e088a9c474",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:11:24.558Z"
+  },
+  {
+    "id": "c23f19b8-7d26-4868-a99e-f3573867728d",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:11:26.044Z"
+  },
+  {
+    "id": "1256d807-fce4-480e-a7de-ef6f507c8a08",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:11:58.172Z"
+  },
+  {
+    "id": "d41db06b-034d-40ec-b7d4-80b3a7e6d64c",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:13:07.588Z"
+  },
+  {
+    "id": "968bb82d-204f-46a5-8eb3-1d23ace5910b",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:13:43.648Z"
+  },
+  {
+    "id": "b7e36f47-b09a-45a6-aa1d-b385863a8bcd",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:13:45.268Z"
+  },
+  {
+    "id": "5ada823a-e762-433d-9a97-9b1edd6e09d9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:13:57.383Z"
+  },
+  {
+    "id": "beff727e-2c87-483c-8f21-12361dd8b497",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:14:00.171Z"
+  },
+  {
+    "id": "50ec1370-1abc-4fa3-a46f-186fe4cbe675",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:14:03.366Z"
+  },
+  {
+    "id": "43032238-fbf6-4bfc-9e0a-d0767a9231bd",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:14:05.233Z"
+  },
+  {
+    "id": "e890d88a-30eb-4664-a718-b51cba7768ee",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:14:07.119Z"
+  },
+  {
+    "id": "9dca94df-c985-43a6-9ad5-d0440d773f58",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:14:15.865Z"
+  },
+  {
+    "id": "0ecd79ab-0831-4990-ad19-3fd54a622aba",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:14:17.798Z"
+  },
+  {
+    "id": "7c0d0b1a-01bc-427a-83d5-0b72d0146bd5",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:14:32.786Z"
+  },
+  {
+    "id": "5dbd6648-bd37-4d4c-beec-a3b650b5e59e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:14:34.902Z"
+  },
+  {
+    "id": "42f2adb4-0b5b-4d3c-b0c3-c6430020946b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:14:36.281Z"
+  },
+  {
+    "id": "69e0c284-b1e3-4b4d-85bc-2d98c245d781",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:14:37.834Z"
+  },
+  {
+    "id": "093bb80e-3219-45d1-af63-05756841a7e7",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:15:03.109Z"
+  },
+  {
+    "id": "7429e77a-b621-41c3-b0b4-71c27e991683",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:15:04.645Z"
+  },
+  {
+    "id": "6f501c1c-cfd1-4ef3-ad50-0599f0949ca8",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:15:10.912Z"
+  },
+  {
+    "id": "5e0a3313-e497-493c-9b59-044b5fc738b6",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:15:30.071Z"
+  },
+  {
+    "id": "6ae955cb-c063-47b3-b368-2b18ac4a91b9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:17:40.722Z"
+  },
+  {
+    "id": "70dc9be6-ba35-4a49-a79e-7001c6522ca5",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:17:47.723Z"
+  },
+  {
+    "id": "9f9bd351-c9b0-4a96-bc04-f790f0db04f7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:17:49.941Z"
+  },
+  {
+    "id": "4cec7170-423e-429b-a909-acb9896bb2a9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:17:51.889Z"
+  },
+  {
+    "id": "d3abae0a-efaf-4b57-9cf1-ef6200a24b86",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:18:06.872Z"
+  },
+  {
+    "id": "957a51c4-6b26-4c0a-ad93-2ded1ee28b50",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:21:40.294Z"
+  },
+  {
+    "id": "21ba840d-3ceb-4246-953a-03d63816e39e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:21:56.813Z"
+  },
+  {
+    "id": "dd370634-4cb5-4e37-8204-5c27ff5e7b2e",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:22:27.321Z"
+  },
+  {
+    "id": "c5c70222-3a7e-48d9-97e9-5a4364f46604",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:23:31.428Z"
+  },
+  {
+    "id": "12536eb8-fd1c-4aab-a3cd-5d962a7a8017",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:24:05.822Z"
+  },
+  {
+    "id": "1501afe0-8db8-4f4c-9de8-65debac77eb7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:24:05.845Z"
+  },
+  {
+    "id": "133ccb03-429c-4d18-9210-1c5f1f9fc655",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:24:13.212Z"
+  },
+  {
+    "id": "d084e643-b90b-4176-9a87-399703a47c99",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:24:13.229Z"
+  },
+  {
+    "id": "f9b157a7-4c87-4bf4-9334-ed8308530e68",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:24:21.767Z"
+  },
+  {
+    "id": "bbb9f527-9f06-4992-8695-3642730ad81b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:24:21.785Z"
+  },
+  {
+    "id": "ff7f490d-9598-4e63-a1c4-db743248b279",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:25:22.004Z"
+  },
+  {
+    "id": "3dc194e3-75b9-496b-ba47-95c257937bee",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:25:22.023Z"
+  },
+  {
+    "id": "b47c1b46-bc27-4346-bd8d-2dcc649e46d3",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:25:25.566Z"
+  },
+  {
+    "id": "ee0ffb91-ccf3-4c10-ad28-fd5fdd339bd0",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:25:25.590Z"
+  },
+  {
+    "id": "7b1c6309-8da5-4bf9-96b5-e347519240b6",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:26:21.886Z"
+  },
+  {
+    "id": "3623383d-7ee6-4e02-8983-cd6df0c07103",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:26:21.904Z"
+  },
+  {
+    "id": "895fc3c7-d39c-42b4-917b-b5e993f1a5a8",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:26:28.334Z"
+  },
+  {
+    "id": "322a775e-e102-4e13-b540-e25fe58f0bd3",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:26:28.376Z"
+  },
+  {
+    "id": "a8532c75-5d35-43c3-bdca-7c1cf622e434",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:27:15.363Z"
+  },
+  {
+    "id": "fd866339-c029-4b2b-b1aa-bd9be006044a",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:27:15.379Z"
+  },
+  {
+    "id": "c84a6dfc-ce97-4ab0-9d83-0e931fc829c2",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:27:19.761Z"
+  },
+  {
+    "id": "5d61e790-5964-4e66-a203-1d01209aea34",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:27:19.778Z"
+  },
+  {
+    "id": "3198f3be-8074-4742-8cfc-b42863e9def7",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:28:00.667Z"
+  },
+  {
+    "id": "fce56083-ce19-4e96-a02c-643824d4c3fa",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:28:03.444Z"
+  },
+  {
+    "id": "c25a7dc9-5b1b-439c-8a51-f1c365c1b87b",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:28:19.815Z"
+  },
+  {
+    "id": "a6d913d8-f6e5-4756-88ad-1454026cb445",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:28:59.108Z"
+  },
+  {
+    "id": "2987ab90-4dcd-4048-bf60-33d46d40c7be",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:35:17.989Z"
+  },
+  {
+    "id": "1216df59-6610-464f-8a33-2cc4b56a8648",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:35:18.006Z"
+  },
+  {
+    "id": "ceff77d5-5608-4753-822f-d64ede74bcf1",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:35:20.520Z"
+  },
+  {
+    "id": "18da94a0-678d-49b8-8a6f-5dd0f7ae1475",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:35:20.543Z"
+  },
+  {
+    "id": "372368c2-e3a2-436d-8c18-30b61bcbc520",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:38:07.063Z"
+  },
+  {
+    "id": "0e7585ae-fa9f-4714-abb8-c73674a7b424",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:38:07.101Z"
+  },
+  {
+    "id": "f523e7d2-e564-4995-91aa-f63bd5b1bfa3",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:38:36.627Z"
+  },
+  {
+    "id": "ce156e2c-3f45-49a9-8f68-0a1f2cedeefe",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:38:36.671Z"
+  },
+  {
+    "id": "8ab6ffc5-34ba-4013-ba70-7e13087788a1",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:49:15.859Z"
+  },
+  {
+    "id": "247e7d12-dc9b-479f-87fb-f0a58c744b42",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:49:15.888Z"
+  },
+  {
+    "id": "e4e60d56-ee3a-40f5-82f5-a36ef2e67630",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:49:29.722Z"
+  },
+  {
+    "id": "a66d47ac-aa27-42c5-98eb-6edc49b23323",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:49:29.776Z"
+  },
+  {
+    "id": "4ca23075-926f-4e5d-876c-1f7e61735bf2",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T07:56:08.304Z"
+  },
+  {
+    "id": "85af5d3a-41fd-48af-b77e-7377a30c2906",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T07:56:08.340Z"
+  },
+  {
+    "id": "70bd5f27-53e3-41eb-af1f-a1d10414897b",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T07:56:16.186Z"
+  },
+  {
+    "id": "157697df-1644-47c5-a4b2-9f7936feaf94",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T07:56:16.210Z"
+  },
+  {
+    "id": "315a48ce-e2cd-4b69-8dab-6b7552f5ef6e",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T07:57:40.873Z"
+  },
+  {
+    "id": "27de5b7f-1b37-4a5e-8aae-7f458a3bcb66",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T07:57:41.073Z"
+  },
+  {
+    "id": "634d1345-48c0-422d-954f-e05c0c6d8195",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T09:27:55.675Z"
+  },
+  {
+    "id": "a5cbe28d-a012-4bd7-9474-bd02ba999ea8",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T17:31:42.314Z"
+  },
+  {
+    "id": "61294dcb-dcb7-47ec-a2ad-a31e0ab61112",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T17:32:22.542Z"
+  },
+  {
+    "id": "b4c6d7b8-af5e-4185-a881-c433dc68c2e9",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T17:32:22.846Z"
+  },
+  {
+    "id": "58155801-33be-467f-afd8-b4c36114bba7",
+    "deviceId": "relay-f105-01",
+    "level": "warn",
+    "message": "device disconnected",
+    "timestamp": "2026-04-02T17:32:42.814Z"
+  },
+  {
+    "id": "97b8f3f3-8818-4b2e-a22f-d6386ffd2959",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "device connected from 192.168.31.50",
+    "timestamp": "2026-04-02T17:32:43.116Z"
+  },
+  {
+    "id": "5805c387-429e-43bd-b747-cb1e842027f5",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay on",
+    "timestamp": "2026-04-02T17:32:55.000Z"
+  },
+  {
+    "id": "15ec1045-7d27-4569-b138-95b251251f0e",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as on",
+    "timestamp": "2026-04-02T17:32:55.035Z"
+  },
+  {
+    "id": "99a125bd-3b24-4a2c-b99b-c9e283f39194",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "dashboard requested relay off",
+    "timestamp": "2026-04-02T17:33:04.782Z"
+  },
+  {
+    "id": "e6ef139f-c450-487d-b555-e67a01627c31",
+    "deviceId": "relay-f105-01",
+    "level": "info",
+    "message": "relay acknowledged as off",
+    "timestamp": "2026-04-02T17:33:04.804Z"
+  }
+]

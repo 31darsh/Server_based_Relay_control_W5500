@@ -1,0 +1,6 @@
+../Core/Src/wiznet/w5500_port.c:9:6:W5500_Select	1
+../Core/Src/wiznet/w5500_port.c:16:6:W5500_Unselect	1
+../Core/Src/wiznet/w5500_port.c:23:9:W5500_ReadByte	1
+../Core/Src/wiznet/w5500_port.c:32:6:W5500_WriteByte	1
+../Core/Src/wiznet/w5500_port.c:39:6:W5500_ReadBurst	1
+../Core/Src/wiznet/w5500_port.c:44:6:W5500_WriteBurst	1

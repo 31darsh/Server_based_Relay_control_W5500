@@ -1,0 +1,29 @@
+App_Relay_Init() starting...
+W5500 hardware reset complete - entering init state
+[info] relay1=off source=startup
+W5500 SPI callbacks registered for version check
+About to call W5500_CheckAndInit()...
+W5500_CheckAndInit() called - starting version check...
+Attempt 1: calling W5500_GetVersionWithRetry()...
+W5500 version read trial 1: 0x04
+W5500 version valid 0x04 after attempt 1
+W5500 check passed. Proceeding to network init
+Network_Init() called - SPI callbacks already registered
+[info] application initialized
+W5500 wizchip re-initialized with final config
+PHY auto-negotiation phase complete, entering stability check
+PHY link stable - network ready for socket operations
+[info] ethernet link detected - ready
+Ping socket opened for ICMP responses
+Socket connect succeeded to 192.168.31.101:9000
+[info] server connected
+RX: {"type":"command","action":"relay_set","relay":1,"state":"on","requestId":"55fa0c5d-ea58-4200-b40b-a316a96081b9"}
+[info] relay1=on source=server
+RX: {"type":"command","action":"relay_set","relay":1,"state":"off","requestId":"7e74abb6-dba3-4ca1-9935-3060aa9c3a34"}
+[info] relay1=off source=server
+RX: {"type":"command","action":"relay_set","relay":1,"state":"on","requestId":"31161ee6-2ef7-4afa-9b3e-0d3a3434f991"}
+[info] relay1=on source=server
+RX: {"type":"command","action":"relay_set","relay":1,"state":"off","requestId":"ab089547-c758-4745-a928-ba009d2a9a02"}
+[info] relay1=off source=server
+RX: {"type":"command","action":"relay_set","relay":1,"state":"on","requestId":"16f8a3be-6373-4ac8-8da0-607a4c5b6b08"}
+[info] relay1=on source=server

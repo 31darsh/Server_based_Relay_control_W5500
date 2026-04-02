@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Relay Control Center</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <section id="loginView" class="panel login-panel">
+      <div class="brand-block hero-panel">
+        <div class="brand-lockup">
+          <div class="logo-mark" aria-hidden="true">
+            <span class="logo-arc arc-blue"></span>
+            <span class="logo-arc arc-red"></span>
+            <span class="logo-arc arc-green"></span>
+          </div>
+          <div>
+            <p class="eyebrow">PECSOL Industrial Automation</p>
+            <h1>Relay Control Center</h1>
+          </div>
+        </div>
+        <p class="muted hero-copy">Industry-focused remote relay operation with device health visibility, JSON command flow, and operational logs for control-room teams.</p>
+        <div class="hero-grid">
+          <article class="hero-tile">
+            <strong>Live Device State</strong>
+            <span>Online, offline, relay state, last seen</span>
+          </article>
+          <article class="hero-tile">
+            <strong>Secure Access</strong>
+            <span>Login protected dashboard and profile controls</span>
+          </article>
+          <article class="hero-tile">
+            <strong>Traceable Actions</strong>
+            <span>Relay logs synced from firmware to software</span>
+          </article>
+        </div>
+      </div>
+      <form id="loginForm" class="card login-card">
+        <h2>Login</h2>
+        <label>Username<input id="username" value="admin" required /></label>
+        <label>Password<input id="password" type="password" value="admin123" required /></label>
+        <button type="submit">Sign In</button>
+        <p id="loginError" class="error"></p>
+      </form>
+    </section>
+
+    <section id="appView" class="hidden">
+      <header class="topbar">
+        <div class="brand-lockup">
+          <div class="logo-mark small" aria-hidden="true">
+            <span class="logo-arc arc-blue"></span>
+            <span class="logo-arc arc-red"></span>
+            <span class="logo-arc arc-green"></span>
+          </div>
+          <div>
+            <p class="eyebrow">PECSOL Control Dashboard</p>
+            <h1>Server Based Relay Control</h1>
+          </div>
+        </div>
+        <div class="top-actions">
+          <div class="user-chip">
+            <button id="profileIconButton" class="icon-button" type="button" title="User Profile Setting">
+              <span id="profileInitials" class="icon-avatar">A</span>
+            </button>
+            <span id="activeUser"></span>
+          </div>
+          <button id="logoutButton" class="secondary">Logout</button>
+        </div>
+      </header>
+
+      <div class="layout">
+        <nav class="sidebar">
+          <button class="nav-link active" data-view="overview">Overview</button>
+          <button class="nav-link" data-view="devices">Device Management</button>
+          <button class="nav-link" data-view="control">Device Control</button>
+        </nav>
+
+        <main class="content">
+          <section id="overview" class="view">
+            <div id="summaryCards" class="cards"></div>
+            <div class="card">
+              <div class="section-head">
+                <h2>Operational Snapshot</h2>
+              </div>
+              <div id="overviewHighlights" class="highlights"></div>
+            </div>
+            <div class="card">
+              <div class="section-head">
+                <h2>Recent Relay Logs</h2>
+              </div>
+              <div id="recentLogs" class="log-list"></div>
+            </div>
+          </section>
+
+          <section id="devices" class="view hidden">
+            <div class="card">
+              <div class="section-head">
+                <h2>Device Management</h2>
+                <button id="refreshDevices" class="secondary">Refresh</button>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Device ID</th>
+                      <th>Status</th>
+                      <th>Relay</th>
+                      <th>IP</th>
+                      <th>Firmware</th>
+                      <th>Last Seen</th>
+                    </tr>
+                  </thead>
+                  <tbody id="deviceTable"></tbody>
+                </table>
+              </div>
+            </div>
+          </section>
+
+          <section id="control" class="view hidden">
+            <div class="card">
+              <div class="section-head">
+                <h2>Device Control</h2>
+              </div>
+              <div class="control-grid">
+                <label>Select Device
+                  <select id="deviceSelector"></select>
+                </label>
+                <div class="button-row">
+                  <button id="relayOnButton">Relay ON</button>
+                  <button id="relayOffButton" class="danger">Relay OFF</button>
+                </div>
+              </div>
+              <div id="selectedDeviceCard" class="selected-device-card"></div>
+              <p id="controlMessage" class="muted"></p>
+            </div>
+            <div class="card">
+              <div class="section-head">
+                <h2>Selected Device Logs</h2>
+              </div>
+              <div id="deviceLogs" class="log-list"></div>
+            </div>
+          </section>
+
+          <section id="profile" class="view hidden">
+            <form id="profileForm" class="card profile-form">
+              <div class="section-head">
+                <h2>User Profile Setting</h2>
+              </div>
+              <label>Display Name<input id="displayName" /></label>
+              <label>Email<input id="email" type="email" /></label>
+              <label>New Password<input id="newPassword" type="password" /></label>
+              <button type="submit">Save Profile</button>
+              <p id="profileMessage" class="muted"></p>
+            </form>
+          </section>
+        </main>
+      </div>
+    </section>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

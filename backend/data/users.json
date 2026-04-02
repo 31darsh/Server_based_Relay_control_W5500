@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin",
+    "username": "admin",
+    "displayName": "Administrator",
+    "role": "admin",
+    "passwordHash": "e88cbc54dc363e25c020987628b5090ffef3ab1c106e9e4908ba92ba4957545a8032b28845f3e55df7213eac1a4932345d757b3f3d1e8e74386007a927fc77c6",
+    "salt": "2b676bcf7b86a8513bcb27de7a58b252",
+    "email": "admin@example.com"
+  }
+]

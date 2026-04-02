@@ -1,0 +1,9 @@
+../Core/Src/wiznet/w5500.c:75:10:WIZCHIP_READ	3
+../Core/Src/wiznet/w5500.c:101:10:WIZCHIP_WRITE	2
+../Core/Src/wiznet/w5500.c:127:10:WIZCHIP_READ_BUF	4
+../Core/Src/wiznet/w5500.c:155:10:WIZCHIP_WRITE_BUF	3
+../Core/Src/wiznet/w5500.c:184:10:getSn_TX_FSR	3
+../Core/Src/wiznet/w5500.c:199:10:getSn_RX_RSR	3
+../Core/Src/wiznet/w5500.c:213:6:wiz_send_data	2
+../Core/Src/wiznet/w5500.c:231:6:wiz_recv_data	2
+../Core/Src/wiznet/w5500.c:250:6:wiz_recv_ignore	1
