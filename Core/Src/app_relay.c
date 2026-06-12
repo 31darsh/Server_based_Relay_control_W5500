@@ -42,6 +42,9 @@ static const wiz_NetInfo netinfo = {
 static char linebuf[LINE_BUF_SIZE];
 static uint16_t line_len = 0;
 
+#define PHY_LINK_TIMEOUT_MS 2000U
+#define PHY_LINK_POLL_MS    50U
+
 static uint8_t relay_state = 0;
 static uint32_t last_heartbeat = 0;
 
@@ -51,13 +54,28 @@ static void W5500_Reset(void)
 {
     UART_Print("RESET LOW\r\n");
 
-    //HAL_GPIO_WritePin(W5500_RESET_GPIO_Port, W5500_RESET_Pin, GPIO_PIN_RESET);
+    HAL_GPIO_WritePin(W5500_RESET_GPIO_Port, W5500_RESET_Pin, GPIO_PIN_RESET);
     HAL_Delay(200);
 
     UART_Print("RESET HIGH\r\n");
 
     HAL_GPIO_WritePin(W5500_RESET_GPIO_Port, W5500_RESET_Pin, GPIO_PIN_SET);
     HAL_Delay(500);
+}
+
+static bool WaitForPhyLink(uint32_t timeout_ms)
+{
+    uint32_t start = HAL_GetTick();
+
+    while (HAL_GetTick() - start < timeout_ms)
+    {
+        if (wizphy_getphylink() == PHY_LINK_ON)
+            return true;
+
+        HAL_Delay(PHY_LINK_POLL_MS);
+    }
+
+    return false;
 }
 
 /* ================= RELAY ================= */
@@ -226,12 +244,15 @@ void App_Relay_Init(void)
     UART_Print("NET OK\r\n");
 
     /* PHY CHECK */
-    uint8_t link = wizphy_getphylink();
-
-    if(link == PHY_LINK_ON)
+    UART_Print("WAIT PHY LINK\r\n");
+    if (WaitForPhyLink(PHY_LINK_TIMEOUT_MS))
+    {
         UART_Print("LAN OK\r\n");
+    }
     else
+    {
         UART_Print("LAN FAIL\r\n");
+    }
 
     socket_connect();
 }

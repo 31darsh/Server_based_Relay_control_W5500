@@ -1,0 +1,41 @@
+# STM32CubeIDE / Toolchain Build Outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.su
+*.cyclo
+*.map
+*.d
+*.o
+*.list
+objects.list
+objects.mk
+sources.mk
+makefile
+subdir.mk
+
+# STM32CubeIDE settings
+.settings/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Dynamic Backend Data / Logs (regenerated at runtime)
+backend/data/devices.json
+backend/data/logs.json
+
+# Local logs and debug utilities
+*.log
+teraterm_logs/
+log_04_01_2026_SPI_working
+
+# Browser / OS temporary files
+*.crdownload
+.DS_Store
+Thumbs.db

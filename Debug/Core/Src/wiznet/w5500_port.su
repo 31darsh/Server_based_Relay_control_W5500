@@ -1,6 +1,0 @@
-../Core/Src/wiznet/w5500_port.c:9:6:W5500_Select	8	static
-../Core/Src/wiznet/w5500_port.c:16:6:W5500_Unselect	8	static
-../Core/Src/wiznet/w5500_port.c:23:9:W5500_ReadByte	24	static
-../Core/Src/wiznet/w5500_port.c:32:6:W5500_WriteByte	16	static
-../Core/Src/wiznet/w5500_port.c:39:6:W5500_ReadBurst	24	static
-../Core/Src/wiznet/w5500_port.c:44:6:W5500_WriteBurst	16	static

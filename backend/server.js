@@ -4,8 +4,9 @@ const http = require("http");
 const net = require("net");
 const crypto = require("crypto");
 
-const HTTP_PORT = Number(process.env.HTTP_PORT || 8080);
-const DEVICE_PORT = Number(process.env.DEVICE_PORT || 9000);
+//const HTTP_PORT = Number(process.env.HTTP_PORT || 8080);
+//const DEVICE_PORT = Number(process.env.DEVICE_PORT || 9000);
+const PORT = Number(process.env.PORT || 8080);
 const ROOT_DIR = path.resolve(__dirname, "..");
 const FRONTEND_DIR = path.join(ROOT_DIR, "frontend");
 const DATA_DIR = path.join(__dirname, "data");
@@ -71,14 +72,16 @@ const tcpServer = net.createServer((socket) => {
   });
 });
 
-server.listen(HTTP_PORT, () => {
+/*server.listen(HTTP_PORT, () => {
   console.log(`HTTP dashboard running on http://localhost:${HTTP_PORT}`);
 });
 
 tcpServer.listen(DEVICE_PORT, () => {
   console.log(`Device TCP listener running on port ${DEVICE_PORT}`);
+});*/
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
 });
-
 function bootstrapStorage() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
 
